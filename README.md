@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 <h3 align="center">A passionate full-stack developer. Working hard & pushing the limits of every opportunity. Always learning</h3>
 
-- 🌱 I’m currently learning **Next.js, Redux, Golang,**
+- 🌱 I’m currently learning **Next.js, Java,**
 
 - 📫 How to reach me **andreasoun29@gmail.com**
 
